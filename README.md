@@ -1,4 +1,3 @@
-{"id":"29642","variant":"standard","title":"README visual para CalculadoraSalarioNeto"}
 # Calculadora Salario Neto 💰
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) 
